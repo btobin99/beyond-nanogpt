@@ -3,6 +3,7 @@ This implements "Scalable Diffusion Models with Transformers"
 (https://arxiv.org/pdf/2212.09748)
 
 
+
 TLDR: 
 
 • Unlike language models predicting next tokens, DiT predicts the NOISE was added to corrupt an image given the noised image as input
